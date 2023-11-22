@@ -1,7 +1,5 @@
 # Hello! Im Gabriel Gregório! 🖐️
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gg.gabriel.greg/)
-
 <div style="display:inline"></br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
