@@ -2,6 +2,7 @@
 <a href="https://www.linkedin.com/in/gggreg87/">
   <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+</br></br></br>
 <div style="display:inline"></br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
