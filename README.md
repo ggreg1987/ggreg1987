@@ -1,4 +1,7 @@
 # Hello! Im Gabriel Gregório! 🖐️
+# Follow me in Linkedin
+# Together we do what matters
+</br>
 <a href="https://www.linkedin.com/in/gggreg87/">
   <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
