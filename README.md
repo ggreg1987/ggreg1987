@@ -1,5 +1,4 @@
 # Hello! Im Gabriel Gregório! 🖐️
-<h2>Follow me in Linkedin | Together we do what matters</h2> 
 </br>
 </br></br>
 <div style="display:inline"></br>
