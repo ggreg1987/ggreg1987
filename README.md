@@ -1,4 +1,4 @@
-# Hello! Im Gabriel Varejão! 🖐️
+# Hello! Im Gabriel Gregório! 🖐️
 </br>
 </br></br>
 <div style="display:inline"></br>
